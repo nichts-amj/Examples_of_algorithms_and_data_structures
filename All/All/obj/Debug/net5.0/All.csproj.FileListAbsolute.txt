@@ -1,0 +1,16 @@
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\bin\Debug\net5.0\All.exe
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\bin\Debug\net5.0\All.deps.json
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\bin\Debug\net5.0\All.runtimeconfig.json
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\bin\Debug\net5.0\All.runtimeconfig.dev.json
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\bin\Debug\net5.0\All.dll
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\bin\Debug\net5.0\ref\All.dll
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\bin\Debug\net5.0\All.pdb
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.csproj.AssemblyReference.cache
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.AssemblyInfoInputs.cache
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.AssemblyInfo.cs
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.csproj.CoreCompileInputs.cache
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.dll
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\ref\All.dll
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.pdb
+D:\1. Collage\Semester 3\3. Kamis\2. Algoritma dan Struktur Data II\All\All\obj\Debug\net5.0\All.genruntimeconfig.cache
